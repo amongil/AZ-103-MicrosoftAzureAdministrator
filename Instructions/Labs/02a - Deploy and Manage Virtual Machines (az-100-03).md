@@ -290,11 +290,11 @@ The main tasks for this exercise are as follows:
 
 1. In the Azure portal, navigate to the **az1000301-vm0** blade.
 
-1. From the **az1000301-vm0** blade, navigate to the **Networking** blade, displaying the configuration of the public IP address **az1000301-vm0-ip**, assigned to its network interface.
+1. From the **az1000301-vm0** blade, navigate to the **Networking** blade, displaying the configuration of the public IP address **az1000301-ip0**, assigned to its network interface.
 
 1. From the **Networking** blade, click the link representing the public IP address.
 
-1. On the az1000301-vm0-ip blade, click **Configuration**.
+1. On the az1000301-ip0 blade, click **Configuration**.
 
 1. Change the assignment of the public IP address to **Static**, and then click **Save**.
 
